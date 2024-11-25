@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.joejuice.com/
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepagina
-  <img src="readme-images/www.joejuice.com_(iPhone 6_7_8).png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/www.joejuice.com_(iPhone 6_7_8).png" width="375px" alt="homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Culturepagina 
-  <img src="readme-images/www.joejuice.com_culture(iPhone 6_7_8).png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/www.joejuice.com_culture(iPhone 6_7_8).png" width="375px" alt="cultuurpagina">
  
 </details>
 
@@ -54,7 +54,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-
+  <img src="readme-images/IMG_0533.jpg" width="375px" alt="wcag.1">
+  <img src="readme-images/IMG_0534.jpg" width="375px" alt="wcag.2">
+  <img src="readme-images/IMG_0535.jpg" width="375px" alt="wcag.3">
+  <img src="readme-images/IMG_0536.jpg" width="375px" alt="wcag.4">
+  <img src="readme-images/IMG_0537.jpg" width="375px" alt="wcag.5">
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
   
