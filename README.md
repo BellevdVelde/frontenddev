@@ -16,14 +16,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Belle van der Velde
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
- 
+  surface plane
 </details>
 
 
@@ -37,14 +37,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+  https://www.joejuice.com/
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Homepagina
+  <img src="readme-images/www.joejuice.com_(iPhone 6_7_8).png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Culturepagina 
+  <img src="readme-images/www.joejuice.com_culture(iPhone 6_7_8).png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -57,7 +57,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+  
+  - Het duurt erg lang om de hele pagina door te lezen, omdat de voice-over alles gaat benoemen.
+  - Niet alle afbeeldingen worden vertelt.
+  - De buttons waardoor je naar beneden door de pagina wordt geleidt, worden niet vermeldt. 
+  - Op de pagina staan niet altijd de buttons, waardoor je door de slider kan gaan met informatie. Als je dat op de screenreader hebt worden dus sommige stukken van de pagina overgeslagen.
 </details>
 
 

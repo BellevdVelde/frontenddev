@@ -15,8 +15,10 @@
 /*********************/
 :root {
 	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+	--color-text:rgb(255,255,255);
+	--color-background:rgb(38,40,43);
+	--color-button:rgb(248,193,217);
+	--color-knopje:rgb(154,155,156);
 }
 
 
