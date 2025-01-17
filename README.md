@@ -226,6 +226,7 @@ Voor de rest hard verder werken aan de tweede pagina.
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
+    <img src="readme-images/dark:light.png" width="375px" alt="lightmode">
 
   Dark light mode geleerd, wat eigenlijk heel makkelijk is. 
   De carousel ging goed, maar vind ik heel lastig, dus niet overal gelukt. Heb ik ook gemaakt met hulp van medestudenten, dus daar kan ik wel nog meer over leren. 
@@ -237,6 +238,8 @@ Voor de rest hard verder werken aan de tweede pagina.
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+<img src="readme-images/checkbox.png" width="375px" alt="checkbox">
+<img src="readme-images/carouselculturepage.png" width="375px" alt="carousel">
 
   stylen van checkbox op eerste pagina. 
   voor nu het werkend maken van de carousel op de tweede pagina niet gelukt.
