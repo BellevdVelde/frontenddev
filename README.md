@@ -23,7 +23,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
-  surface plane
+  surface plane:
+  - video
+  - Scroll animaties (animation-timeline, intersection observer…) 
+  - dark/light mode
+  - SVG (icons) stylen en animeren 
+  - Prefers-reduced-motion 
 </details>
 
 
@@ -80,7 +85,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/Breakdown_2.png" width="375px" alt="breakdown van de culture pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/breakdown-nav.png" width="375px" alt="breakdown van de nav">
 
 </details>
 
@@ -93,9 +98,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-  
+  ### Stand van zaken  
+  Zijn alle headings goed geplaatst? En is de header goed onder verdeeld?
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -126,8 +130,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ziet alles er goed uit? Ik moet vooral gewoon verder werken en heb verder geen vragen.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -142,10 +145,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+ Vooral verder werken aan css, want er is nog niet veel gebeurd. 
 
 </details>
 
@@ -157,9 +157,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
+    <img src="readme-images/wcagchecklist2.1.HEIC" width="375px" alt="wcag2.1">
+  <img src="readme-images/wcagchecklist2.2.HEIC" width="375px" alt="wcag2.2">
+  <img src="readme-images/wcagchecklist2.3.HEIC" width="375px" alt="wcag2.3">
+  <img src="readme-images/wcagchecklist2.4.HEIC" width="375px" alt="wcag2.4">
+  <img src="readme-images/wcagchecklist2.5.HEIC" width="375px" alt="wcag2.5">
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+
+  Tijdens het testen met screenreader ging alles eigenlijk wel goed. Hij leest alles goed voor en beschrijft bijna elke afbeelding. Hij leest alleen de video niet en de achtergrond afbeeldingen niet, maar voor de rest doet alles het goed en vertelt hij ook de headings goed. Ook leest hij waar de linkjes naartoe gaan. 
+
+Met de wcag
+
 
 </details>
 
@@ -173,8 +183,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Vooral kijken naar css, of alles goed is. 
+Mijn css is heel lang, is dat een probleem? 
 
+Vragen:
+- Ik krijg de checkbox (section 8) niet gestyled que border en het transparant maken.
+- Ik krijg de a in derde section niet te pakken.
+- Hoe doen met tweede pagina stylen, sybren zei meerdere css bestanden aanmaken, maar is dat de bedoeling. want hoe doe je het met 1 pagina en nth of type.
+- Vragen over 5 dingen van surface plane (video, animatie van teksten tijdens scrollen)
+- Css bestand is nu heel lang (was eerst langer), ik heb nu de buttons en heading al samengevoegd. Is de lengte dan nu oke of kan hij nog korter?
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -189,10 +206,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+Alles ziet er netjes uit. Het maakt niet uit dat de css lang is, als je het maar zo kort mogelijk maakt, door dingen samen te voegen. 
+Voor de rest hard verder werken aan de tweede pagina.
 
 </details>
 
@@ -212,11 +227,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
+  Dark light mode geleerd, wat eigenlijk heel makkelijk is. 
+  De carousel ging goed, maar vind ik heel lastig, dus niet overal gelukt. Heb ik ook gemaakt met hulp van medestudenten, dus daar kan ik wel nog meer over leren. 
+  Animaties gingen goed. 
+  Ik heb geleerd hoe je met svg's werkt. Voorheen had ik eigenlijk alleen maar afbeeldingen, maar nu ook veel svg's.
+
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+
+  stylen van checkbox op eerste pagina. 
+  voor nu het werkend maken van de carousel op de tweede pagina niet gelukt.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -234,8 +257,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Coding2GO. (2024, 28 juli). Create a Dark Mode Switch with HTML, CSS, JavaScript [Video]. YouTube. https://www.youtube.com/watch?v=_gKEUYarehE
+  2. Coyier, C. (2022, 8 februari). No Motion Isn't Always Prefers-reduced-motion | CSS-Tricks. CSS-Tricks. https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/
+  3. Gavor, D. (2025, 13 januari). Cool CSS Hamburger Menus and Their Animations. Slider Revolution. https://www.sliderrevolution.com/resources/css-hamburger-menu/
+  4. : The Video Embed element - HTML: HyperText Markup Language | MDN. (2024, 19 december). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
+  5. background-image - CSS: Cascading Style Sheets | MDN. (2024, 19 december). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
+
 
 </details>
