@@ -340,13 +340,13 @@ section h3 {
   .home section:nth-of-type(3) a,
   .home section:nth-of-type(4) h2,
   .home section:nth-of-type(4) a {
-    opacity: 1; /* Verwijder de overgang */
-    transition: none; /* Verwijder de transformatie */
+    opacity: 1; 
+    transition: none; 
   }
 
   .home section:nth-of-type(1) button {
-    animation: none !important; /* Gebruik !important om de animatie uit te schakelen */
-    transition: none !important; /* Verwijder eventuele overgangen */
+    animation: none !important; 
+    transition: none !important; 
   }
 }
 
@@ -958,8 +958,7 @@ animation: bounce 1s ease-in-out infinite;
 
 .culture section li {
   flex: 0 0 auto;
-  /* Zorgt dat de items niet worden gecomprimeerd */
-  transition: transform 0.5s ease; /* Zorgt voor een vloeiende overgang bij het verschuiven */
+  transition: transform 0.5s ease; 
 }
 
 .culture section:nth-of-type(2),
@@ -982,14 +981,12 @@ animation: bounce 1s ease-in-out infinite;
 }
 
 .culture section button:nth-of-type(1) {
-  right: 50px; /* Geef wat ruimte tussen de knoppen */
-  /* Pas dit aan voor de eerste knop */
+  right: 50px; 
   transform: rotate(90deg);
 }
 
 .culture section button:nth-of-type(2) {
-  right: 10px; /* Net iets dichterbij de rand van de sectie */
-  /* Pas dit aan voor de tweede knop */
+  right: 10px; 
   transform: rotate(-90deg);
 }
 
@@ -1100,7 +1097,6 @@ footer ul {
 footer ul li {
   display: grid;
   grid-template-columns: 1fr auto;
-  /* Kolom 1 voor de h3, kolom 2 voor de svg */
   margin: 30px 0;
 }
 
